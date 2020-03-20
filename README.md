@@ -1,4 +1,4 @@
-# Bookmarks React Client
-_This project is a demonstration for Thinkful's React course_
+Bookmarks Client
+added EditBookmark and updated packages.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Part of Bookmarks Api 
